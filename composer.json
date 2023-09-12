@@ -25,7 +25,7 @@
     "extra": {
         "laravel": {
           "providers": [
-            "tayyabtahir71\\MT5WebApi\\MT5WebApiServiceProvider"
+            "tayyabtahir71\\MT5WebApi\\Providers\\InspirationProvider"
           ],
           "aliases": {
             "MT5WebApi": "tayyabtahir71\\MT5WebApi\\MT5WebApi"
