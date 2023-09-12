@@ -1,10 +1,10 @@
 {
-    "name": "tayyab/mt5webapi",
+    "name": "TayyabTahir71/mt5webapi",
     "description": ":Updated for Laravel 10 - Full and complete access to the MT5 Trading platform from the web",
     "keywords": ["Laravel", "MetaQuotes", "WebTrader", "MT5WebApi", "MT5"],
     "autoload": {
         "psr-4": {
-            "Tayyab\\MT5WebApi\\": "src/"
+            "TayyabTahir71\\MT5WebApi\\": "src/"
         }
     },
     "authors": [
@@ -25,10 +25,10 @@
     "extra": {
         "laravel": {
           "providers": [
-            "Tayyab\\MT5WebApi\\MT5WebApiServiceProvider"
+            "TayyabTahir71\\MT5WebApi\\MT5WebApiServiceProvider"
           ],
           "aliases": {
-            "MT5WebApi": "Tayyab\\MT5WebApi\\MT5WebApi"
+            "MT5WebApi": "TayyabTahir71\\MT5WebApi\\MT5WebApi"
           }
         }
       }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Tayyab\MT5WebApi\Controllers;
+namespace TayyabTahir71\MT5WebApi\Controllers;
 
 
 class ClientController extends MT5Controller

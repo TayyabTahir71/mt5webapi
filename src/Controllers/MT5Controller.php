@@ -1,23 +1,23 @@
 <?php
 
-namespace Tayyab\MT5WebApi\Controllers;
+namespace TayyabTahir71\MT5WebApi\Controllers;
 
 
 use App\Http\Controllers\Controller;
 
 use Carbon\Carbon;
-use Tayyab\MT5WebApi\MTConGroup;
-use Tayyab\MT5WebApi\MTDeal;
-use Tayyab\MT5WebApi\MTOrder;
-use Tayyab\MT5WebApi\MTPosition;
-use Tayyab\MT5WebApi\MTWebAPI;
-use Tayyab\MT5WebApi\MTUser;
-use Tayyab\MT5WebApi\MTAccount;
+use TayyabTahir71\MT5WebApi\MTConGroup;
+use TayyabTahir71\MT5WebApi\MTDeal;
+use TayyabTahir71\MT5WebApi\MTOrder;
+use TayyabTahir71\MT5WebApi\MTPosition;
+use TayyabTahir71\MT5WebApi\MTWebAPI;
+use TayyabTahir71\MT5WebApi\MTUser;
+use TayyabTahir71\MT5WebApi\MTAccount;
 use Illuminate\Support\Facades\Log;
 
 /**
  * Class MT5Controller
- * @package Tayyab\MT5WebApi\Controllers
+ * @package TayyabTahir71\MT5WebApi\Controllers
  */
 class MT5Controller extends Controller
 {

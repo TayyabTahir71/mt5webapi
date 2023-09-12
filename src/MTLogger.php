@@ -1,6 +1,6 @@
 <?php
 
-namespace Tayyab\MT5WebApi;
+namespace TayyabTahir71\MT5WebApi;
 
 //+------------------------------------------------------------------+
 //|                                             MetaTrader 5 Web API |

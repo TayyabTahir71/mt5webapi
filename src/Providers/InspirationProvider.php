@@ -1,6 +1,6 @@
 <?php
 
-namespace Tayyab\MT5WebApi\Providers;
+namespace TayyabTahir71\MT5WebApi\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
@@ -129,7 +129,7 @@ class InspirationProvider extends ServiceProvider
     protected function installRoutes()
     {
         $config = $this->app['config']->get('metaquotes.route', []);
-        $config['namespace'] = 'Tayyab\MT5WebApi';
+        $config['namespace'] = 'TayyabTahir71\MT5WebApi';
 
         if (!$this->isLumen()) {
             Route::group($config, function () {

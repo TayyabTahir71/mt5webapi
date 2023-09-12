@@ -1,9 +1,9 @@
 <?php
 
-namespace Fhsinchy\Inspire\Controllers;
+namespace TayyabTahir71\MT5WebApi\Controllers;
 
 use Illuminate\Http\Request;
-use Fhsinchy\Inspire\Inspire;
+use TayyabTahir71\MT5WebApi\Inspire;
 
 class InspirationController {
     public function show(Inspire $inspire) {
