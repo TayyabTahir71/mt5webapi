@@ -1,6 +1,6 @@
 {
     "name": "tayyabtahir71/mt5webapi",
-    "description": ":Updated for Laravel 10 - Full and complete access to the MT5 Trading platform from the web",
+    "description": ":Compatible for Laravel 10 - Full and complete access to the MT5 Trading platform from the web",
     "keywords": ["Laravel", "MetaQuotes", "WebTrader", "MT5WebApi", "MT5"],
     "autoload": {
         "psr-4": {
