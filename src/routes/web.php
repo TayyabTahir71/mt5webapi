@@ -1,9 +1,9 @@
 <?php
 
-use TayyabTahir71\MT5WebApi\Controllers;
+use tayyabtahir71\MT5WebApi\Controllers;
 use Illuminate\Support\Facades\Route;
-use TayyabTahir71\MT5WebApi\MTConSymbol;
-// use TayyabTahir71\MT5WebApi\MTWebAPI;
+use tayyabtahir71\MT5WebApi\MTConSymbol;
+// use tayyabtahir71\MT5WebApi\MTWebAPI;
 use Carbon\CarbonImmutable;
 
 // Route::get('inspire', [Controllers\InspirationController::class, 'index']);
